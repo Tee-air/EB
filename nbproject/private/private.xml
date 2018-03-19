@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/servlets/ConnexionServlet.java</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/web/WEB-INF/inscription.jsp</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/pojos/Verbe.java</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/web/WEB-INF/entete.jsp</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/web/WEB-INF/index.jsp</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/servlets/DeconnexionServlet.java</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/pojos/Question.java</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/pojos/Ville.java</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/web/WEB-INF/question.jsp</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/pojos/Joueur.java</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/pojos/Partie.java</file>
+            <file>file:/C:/Users/tiago/Documents/NetBeansProjects/EnglishBattle/src/java/fr/englishbattle/servlets/QuestionServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
